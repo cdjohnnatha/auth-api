@@ -13,7 +13,6 @@ Rails.application.routes.draw do
 
       # Other resources
       resources :users
-      resources :supermarkets
     end
   end
 end
